@@ -9,7 +9,7 @@ type NavbarProps = {
 
 const Navbar:React.FC<NavbarProps> = () => {
     
-    return <div className='bg-[#D6D6D6] w-[1200px] flex   items-center h-[90px] mt-3 border rounded-[35px] '>
+    return <div className='bg-[#D6D6D6] w-[1200px] flex   items-center h-[90px] mt-3 border rounded-[35px] backdrop-blur-xl '>
         <div>
             <Image src={logo} alt="logo" width={128} height={63} />
         </div>
