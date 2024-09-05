@@ -45,7 +45,7 @@ const FirstPage:React.FC<FirstPageProps> = () => {
           <p className="absolute inset-0 flex items-center justify-center text-center text-sm   px-2  text-[20px] font-bold  text-[#003C3C]">
           Earn via listing your products
           </p>
-          <div className="rotate-90 mt-36  absolute">
+          <div className="rotate-90 mt-[330px]  absolute">
           <Image src={arrow} alt="Arrow" width={93} height={80} />
         </div>
         </div>
