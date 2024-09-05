@@ -1,3 +1,4 @@
+"use client"
 import React from 'react';
 import cart from '../../public/images/Cart.png'
 import contact from '../../public/images/Contact.png'
